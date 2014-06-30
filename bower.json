@@ -1,0 +1,26 @@
+{
+  "name": "CodeMirrorTest",
+  "version": "0.0.0",
+  "authors": [
+    "Jaydeep Solanki <jaydp17@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "codemirror": "~4.3.0",
+    "rjs": "~2.1.14"
+  }
+}
